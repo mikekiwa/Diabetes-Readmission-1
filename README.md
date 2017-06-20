@@ -17,3 +17,5 @@ Chances of readmission are higher in following cases:
 - When primary diagnosis is diseases of the skin and subcutaneous tissue
 - When patient is admitted from Emergency Room
 
+Note
+The ShinyVisualSystem is the visual app created using R Shiny.
